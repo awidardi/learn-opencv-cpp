@@ -1,7 +1,8 @@
 ﻿  opencvtest1.cpp
-c:\users\gp62mvr-7rfx\source\repos\opencvtest1\opencvtest1\opencvtest1.cpp(226): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
-c:\users\gp62mvr-7rfx\source\repos\opencvtest1\opencvtest1\opencvtest1.cpp(279): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-c:\users\gp62mvr-7rfx\source\repos\opencvtest1\opencvtest1\opencvtest1.cpp(385): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
-c:\users\gp62mvr-7rfx\source\repos\opencvtest1\opencvtest1\opencvtest1.cpp(386): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
-c:\users\gp62mvr-7rfx\source\repos\opencvtest1\opencvtest1\opencvtest1.cpp(484): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\gp62mvr-7rfx\source\repos\opencvtest1\opencvtest1\opencvtest1.cpp(180): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+c:\users\gp62mvr-7rfx\source\repos\opencvtest1\opencvtest1\opencvtest1.cpp(229): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\gp62mvr-7rfx\source\repos\opencvtest1\opencvtest1\opencvtest1.cpp(344): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+c:\users\gp62mvr-7rfx\source\repos\opencvtest1\opencvtest1\opencvtest1.cpp(345): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+c:\users\gp62mvr-7rfx\source\repos\opencvtest1\opencvtest1\opencvtest1.cpp(406): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\gp62mvr-7rfx\source\repos\opencvtest1\opencvtest1\opencvtest1.cpp(364): warning C4101: 'stop': unreferenced local variable
   opencvtest1.vcxproj -> C:\Users\GP62MVR-7RFX\source\repos\opencvtest1\x64\Debug\opencvtest1.exe
